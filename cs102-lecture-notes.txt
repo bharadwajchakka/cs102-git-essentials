@@ -1,0 +1,5 @@
+git status : used to check the status of our git repository
+git add : used add a file to git repository
+git commit -m : used to commit the changes we made
+git push : used to push the changes to git server
+git pull : used to pull the changes if any thing is wrong
